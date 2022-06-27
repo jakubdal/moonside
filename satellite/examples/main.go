@@ -12,8 +12,9 @@ import (
 func main() {
 	s := satellite.Default()
 	verb := satellite.VerbGet
-	collection := ""
-	queryString := ""
+	// collection := ""
+	collection := "character"
+	queryString := "name.first_lower=depressiondew&c:limit=5"
 
 	gameDataURL, err := s.GameDataURL(verb, collection, queryString)
 	if err != nil {
