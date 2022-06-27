@@ -1,0 +1,185 @@
+{
+	"character_list": [
+		{
+			"battle_rank": {
+				"percent_to_next": "0",
+				"value": "0"
+			},
+			"certs": {
+				"available_points": "1200",
+				"earned_points": "1000",
+				"gifted_points": "200",
+				"percent_to_next": "0.0",
+				"spent_points": "0"
+			},
+			"character_id": "5428010618013876561",
+			"daily_ribbon": {
+				"count": "0"
+			},
+			"faction_id": "2",
+			"head_id": "1",
+			"name": {
+				"first": "bjacksonqa1",
+				"first_lower": "bjacksonqa1"
+			},
+			"prestige_level": "0",
+			"profile_id": "4",
+			"times": {
+				"creation": "1353430582",
+				"creation_date": "2012-11-20 16:56:22.0",
+				"last_login": "1353430583",
+				"last_login_date": "2012-11-20 16:56:23.0",
+				"last_save": "1353430584",
+				"last_save_date": "2012-11-20 16:56:24.0",
+				"login_count": "1",
+				"minutes_played": "2"
+			},
+			"title_id": "0"
+		},
+		{
+			"battle_rank": {
+				"percent_to_next": "0",
+				"value": "0"
+			},
+			"certs": {
+				"available_points": "0",
+				"earned_points": "0",
+				"gifted_points": "0",
+				"percent_to_next": "0.0",
+				"spent_points": "0"
+			},
+			"character_id": "5428010618013876865",
+			"daily_ribbon": {
+				"count": "0"
+			},
+			"faction_id": "3",
+			"head_id": "1",
+			"name": {
+				"first": "Scrote",
+				"first_lower": "scrote"
+			},
+			"prestige_level": "0",
+			"profile_id": "12",
+			"times": {
+				"creation": "1353435610",
+				"creation_date": "2012-11-20 18:20:10.0",
+				"last_login": "1353435611",
+				"last_login_date": "2012-11-20 18:20:11.0",
+				"last_save": "1353435918",
+				"last_save_date": "2012-11-20 18:25:18.0",
+				"login_count": "1",
+				"minutes_played": "26"
+			},
+			"title_id": "0"
+		},
+		{
+			"battle_rank": {
+				"percent_to_next": "0",
+				"value": "0"
+			},
+			"certs": {
+				"available_points": "1200",
+				"earned_points": "1000",
+				"gifted_points": "200",
+				"percent_to_next": "0.0",
+				"spent_points": "0"
+			},
+			"character_id": "5428010618014007649",
+			"daily_ribbon": {
+				"count": "0"
+			},
+			"faction_id": "2",
+			"head_id": "1",
+			"name": {
+				"first": "bjacksonqa2",
+				"first_lower": "bjacksonqa2"
+			},
+			"prestige_level": "0",
+			"profile_id": "4",
+			"times": {
+				"creation": "1353430744",
+				"creation_date": "2012-11-20 16:59:04.0",
+				"last_login": "1353430745",
+				"last_login_date": "2012-11-20 16:59:05.0",
+				"last_save": "1353430746",
+				"last_save_date": "2012-11-20 16:59:06.0",
+				"login_count": "1",
+				"minutes_played": "2"
+			},
+			"title_id": "0"
+		},
+		{
+			"battle_rank": {
+				"percent_to_next": "0",
+				"value": "0"
+			},
+			"certs": {
+				"available_points": "0",
+				"earned_points": "0",
+				"gifted_points": "0",
+				"percent_to_next": "0.0",
+				"spent_points": "0"
+			},
+			"character_id": "5428010618014007953",
+			"daily_ribbon": {
+				"count": "0"
+			},
+			"faction_id": "3",
+			"head_id": "1",
+			"name": {
+				"first": "cakessonTR",
+				"first_lower": "cakessontr"
+			},
+			"prestige_level": "0",
+			"profile_id": "12",
+			"times": {
+				"creation": "1353435559",
+				"creation_date": "2012-11-20 18:19:19.0",
+				"last_login": "1353435560",
+				"last_login_date": "2012-11-20 18:19:20.0",
+				"last_save": "1353435561",
+				"last_save_date": "2012-11-20 18:19:21.0",
+				"login_count": "1",
+				"minutes_played": "1"
+			},
+			"title_id": "0"
+		},
+		{
+			"battle_rank": {
+				"percent_to_next": "0",
+				"value": "0"
+			},
+			"certs": {
+				"available_points": "0",
+				"earned_points": "0",
+				"gifted_points": "0",
+				"percent_to_next": "0.0",
+				"spent_points": "0"
+			},
+			"character_id": "5428010618014007985",
+			"daily_ribbon": {
+				"count": "0"
+			},
+			"faction_id": "3",
+			"head_id": "1",
+			"name": {
+				"first": "sirGalahad78TR",
+				"first_lower": "sirgalahad78tr"
+			},
+			"prestige_level": "0",
+			"profile_id": "12",
+			"times": {
+				"creation": "1353435571",
+				"creation_date": "2012-11-20 18:19:31.0",
+				"last_login": "1353435572",
+				"last_login_date": "2012-11-20 18:19:32.0",
+				"last_save": "1353435572",
+				"last_save_date": "2012-11-20 18:19:32.0",
+				"login_count": "1",
+				"minutes_played": "1"
+			},
+			"title_id": "0"
+		}
+	],
+	"returned": 5
+}

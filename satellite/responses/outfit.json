@@ -1,0 +1,60 @@
+{
+	"outfit_list": [
+		{
+			"alias": "",
+			"alias_lower": "",
+			"leader_character_id": "8251122389765212065",
+			"member_count": "3",
+			"name": "Deutsche einheit",
+			"name_lower": "deutsche einheit",
+			"outfit_id": "37524549151236150",
+			"time_created": "1411132068",
+			"time_created_date": "2014-09-19 13:07:48.0"
+		},
+		{
+			"alias": "",
+			"alias_lower": "",
+			"leader_character_id": "8251447120430707169",
+			"member_count": "1",
+			"name": "Trupp Delta 13",
+			"name_lower": "trupp delta 13",
+			"outfit_id": "37524549151252121",
+			"time_created": "1411564321",
+			"time_created_date": "2014-09-24 13:12:01.0"
+		},
+		{
+			"alias": "",
+			"alias_lower": "",
+			"leader_character_id": "5428204126946329761",
+			"member_count": "1",
+			"name": "Gramy",
+			"name_lower": "gramy",
+			"outfit_id": "37526022285730732",
+			"time_created": "1417615912",
+			"time_created_date": "2014-12-03 14:11:52.0"
+		},
+		{
+			"alias": "",
+			"alias_lower": "",
+			"leader_character_id": "5428247616567581345",
+			"member_count": "1",
+			"name": "TheAssassins",
+			"name_lower": "theassassins",
+			"outfit_id": "37524390589238163",
+			"time_created": "1410355887",
+			"time_created_date": "2014-09-10 13:31:27.0"
+		},
+		{
+			"alias": "PdN",
+			"alias_lower": "pdn",
+			"leader_character_id": "5428011263289461681",
+			"member_count": "29",
+			"name": "Puissance du Neant",
+			"name_lower": "puissance du neant",
+			"outfit_id": "37524390589235581",
+			"time_created": "1410283514",
+			"time_created_date": "2014-09-09 17:25:14.0"
+		}
+	],
+	"returned": 5
+}
