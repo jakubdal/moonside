@@ -8,14 +8,14 @@ import (
 )
 
 func main() {
-	s := satellite.Default()
+	pf := satellite.DefaultPathfinder()
 	verb := satellite.VerbGet
 	// collection := ""
 	collection := ""
 	queryString := ""
 	// queryString := "name.first_lower=depressiondew&c:limit=5"
 
-	requestURL, err := s.GameDataURL(verb, collection, queryString)
+	requestURL, err := pf.GameDataURL(verb, collection, queryString)
 	if err != nil {
 		panic(err)
 	}
